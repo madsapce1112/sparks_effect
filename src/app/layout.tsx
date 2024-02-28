@@ -11,8 +11,8 @@ const inter = Sorts_Mill_Goudy({
 
 export const metadata: Metadata = {
   title: '3D Generation Studio',
-  description: 'Pluto',
-  creator: 'Valcano103@gmail.com'
+  description: '',
+  creator: ''
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
